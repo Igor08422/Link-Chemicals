@@ -1,0 +1,72 @@
+
+
+div {
+  text-align: center;
+  vertical-align: middle;
+}
+a {
+  color: white;
+  text-decoration: none;
+
+}
+
+body.главная {
+
+  background-image: url('https://img.freepik.com/free-vector/foliage-background_53876-91284.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+div a:hover{
+  color: grey;
+  text-decoration: underline;
+}
+
+.foto {
+  width: 700px;
+  height: 550px;
+  background-position: center;
+}
+
+p {
+  color: grey;
+}
+
+#opo{
+  color: grey
+}
+
+#opo:hover {
+  color: red;
+  text-decoration:
+}
+
+.pikcher {
+  background-image: url(https://img.argumenti.ru/news/news_id/20220702053034-778874.jpg);
+  width: 70%;
+
+  height:
+  background-position: center;
+}
+
+.ppp {
+  background-image: url('https://img.argumenti.ru/news/news_id/20220702053034-778874.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+
+  background: url('https://img.argumenti.ru/news/news_id/20220702053034-778874.jpg') no-repeat center;
+  height: 500px;
+  background-size: cover;
+  background-attachment: fixed;background-image:
+
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+
+a.связь {
+  color: red;
+  text-decoration: none;
+
+}
